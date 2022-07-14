@@ -1,0 +1,35 @@
+Package: com.powen.permasignerios
+Architecture: iphoneos-arm
+Version: 0.1.9
+Section: Applications
+Maintainer: Powen <powen0966091716@gmail.com>
+Pre-Depends: firmware (>= 14.0)
+Depends: dpkg, ldid , bash
+Filename: ./debians/com.powen.permasignerios.0.1.9.deb
+Size: 2468220
+MD5sum: 81e7a75380d5c8ba5dca066f745c67b7
+SHA1: 524d8ced2ed12c6a51005fc34d7d99a1484f7af5
+SHA256: 5d5f75d15ff5997fa268bd0f061faf249274706a5346d587f7b102faa3dd54c7
+SHA512: e681688ec2fdd45162cc2a342e31a41ab33dcbcd739dfe27fd700ecbb5c84f53ef885f5a95808396483d30646b24323ceb8b8761d06003f12d849752a6e453e5
+Description: permasigner on iOS
+Name: permasigneriOS
+Author: Powen <powen0966091716@gmail.com>
+depiction: https://github.com/powenn/permasigneriOS
+
+Package: com.google.ios.youtube
+Architecture: iphoneos-arm
+Version: 17.15.1
+Section: Applications
+Maintainer: google
+Depends: firmware (>=12.0)
+Filename: ./debians/uYouPlus_17.15.1_2.1.deb
+Size: 80286064
+MD5sum: 53bffa81fc6c9dc1cf733eb0b1453583
+SHA1: de26da196f2f520a6148473422ede8c203c48857
+SHA256: b9e06ce935ecfeb2c06f54678177e54d1a908a80f5795051a86684514e240c18
+SHA512: 5ed23f15ae1aa04312ce63b30d9609c197d3067208951161b31c5618545f1eb7dea46da31fa134d176e4193327a6159370bba75398f2f4c209147f1fe3ff2b7c
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Name: YouTube
+Author: google
+Tags: compatible_min::ios12.0
+

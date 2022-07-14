@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: casp
+Components: main
+Date: Thu, 14 Jul 2022 00:34:38 +0000
+Description: desc
+Label: My Repo
+Origin: My Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 0e92b59a5e768d58bb394165cb89ca20             1364 Packages
+ 8ecfbb035b2a7a479f187603e5d5b471              895 Packages.bz2
+ 1e6c8ca74db17cf7c8e07f7fe0b6e6bf              803 Packages.gz
+ 6501aa079f46f86e05fba880dd77eb39              864 Packages.xz
+ 55c2c207deaabe12980dcc3816c269f7              792 Packages.zst
+ f12b8185d92621c143ae4fd928f5fad3              174 Release
+SHA1:
+ 2d56612337d2406714f57e394819b7e8b58d453a             1364 Packages
+ e88d770d4b36d67e1572ff08e34eeb74747d6c6b              895 Packages.bz2
+ 31c7693b9152e0e8f5917e4696ddc584a9702caf              803 Packages.gz
+ f3c506031ebf909675068bcfdf8eaf71f78a22f4              864 Packages.xz
+ efa8e35146b8648b26030241840d04934b2e73db              792 Packages.zst
+ fb78b183f73105e7862436b4a85163b87a1e5a05              174 Release
+SHA256:
+ c54de9a4ceee3881e027aa58c6fc1d28f0789ec88fb58c48ba6f95b10c5b8c69             1364 Packages
+ 5b17468d4c38097e7e52a34e9e5d38e6432d29ebafea577af52058efd7997e5a              895 Packages.bz2
+ 4263c602274acbb4cdf359fbafdebfa8db0c76fb0e4aa67c57f977e03420d11a              803 Packages.gz
+ 98425d5f35bc04daa62619b37a6d26f34ef01eb1289495674350356bb2fcdf5d              864 Packages.xz
+ 076d964e617ddf1c9f129b0004554d765ea66ef2ce0b4f134e3c2ecdb6d42403              792 Packages.zst
+ e928264402a38bb77701d2aa96de0f400f12ea79bdc4d777218eec352b699927              174 Release
+SHA512:
+ e24dbcd6c11ab782000c6438401a4ec080f578ee6d9668837a6810e48833cece4be99e9682ed5a9fc45cb385cddb30349c37baa24da30fc3bad5205f3a4081cc             1364 Packages
+ 3cdd4766d517322a8782a48a15a1618159e16c11635d90767452965c40f167fd2a38c2c5e3f8156495b9c5b53a09b39d054ac26e42109d9831ef81c437bc028a              895 Packages.bz2
+ c6367fcee6314e0e291259623ab595b5683aec19ef163106b7e27d597b9dc7794c58eb9de06fb58a5a2bea90fd412c0900933fb0fd1d072f02194d93cd124109              803 Packages.gz
+ 8623751b159333b4a05cfc915e82f48176cd83525e9467196307406cf156598d7f18fac9038919baa74c46090a7dd272e32a00b4d509a0c6afd4c81ef7ce4d54              864 Packages.xz
+ 2b2872fdb8449f353345f6c8fa50a8b84a219b0d0ffff3fb4fca32334a0375bf25ca09f2d657b390656407f79f595653eb1c484d7a5113e3b8a46c5a3489d3a5              792 Packages.zst
+ f44bbfe7630912fe72ebd131b58597dda0d51aa71a7a27582e67a34d4875990afcb34974aa11edefa0d00d28ff2aa2e30ecacef3784bec5381cb98deb9a5fd3f              174 Release
